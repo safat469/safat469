@@ -4,12 +4,7 @@
        alt="Md. Safatul Islam - Developer Banner"/>
 </p>
 👋 Hi, I'm Md. Safatul Islam
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Md.%20Safatul%20Islam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55"
-    width="100%"
-  />
-</p>
+
 🎓 Software Engineering Student | AI-Driven Web Development Learner
 
 I'm a Software Engineering student at Daffodil International University (DIU), currently in my 3rd Semester.
