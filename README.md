@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-1794227926874.jpg" width="100%"/>
+  <img src="./1794227926874.jpg" width="100%" alt="Md. Safatul Islam"/>
 </p>
 👋 Hi, I'm Md. Safatul Islam
 <p align="center">
