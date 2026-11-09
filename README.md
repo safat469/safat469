@@ -16,5 +16,4 @@ Software Engineering Student | AI-Driven Web Development Learner
 
 📍 Bangladesh 🇧🇩
 
-GitHub: "@safat469" (https://github.com/safat469) 👋
 
