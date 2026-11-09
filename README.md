@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./1794227926874.jpg" width="100%" alt="Md. Safatul Islam"/>
+  <img src="./file_000000005ecc82109d178b8f278c00fe.png"
+       width="100%"
+       alt="Md. Safatul Islam - Developer Banner"/>
 </p>
 👋 Hi, I'm Md. Safatul Islam
 <p align="center">
