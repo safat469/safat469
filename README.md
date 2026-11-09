@@ -46,14 +46,16 @@ I'm a Software Engineering student at Daffodil International University (DIU), c
 - "View Repository" (https://github.com/safat469/BazarDor)
 
 ---
-
-📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safat469&show_icons=true&theme=tokyonight" width="100%" />
-</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safat469&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safat469&theme=tokyonight" width="100%" />
-</p>---
+</p>
+---
 
 🎯 My Goal
 
